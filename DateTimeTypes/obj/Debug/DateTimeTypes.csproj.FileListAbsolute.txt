@@ -1,0 +1,7 @@
+C:\Users\Melek\Desktop\demo\DateTimeTypes\bin\Debug\DateTimeTypes.exe.config
+C:\Users\Melek\Desktop\demo\DateTimeTypes\bin\Debug\DateTimeTypes.exe
+C:\Users\Melek\Desktop\demo\DateTimeTypes\bin\Debug\DateTimeTypes.pdb
+C:\Users\Melek\Desktop\demo\DateTimeTypes\obj\Debug\DateTimeTypes.csproj.AssemblyReference.cache
+C:\Users\Melek\Desktop\demo\DateTimeTypes\obj\Debug\DateTimeTypes.csproj.CoreCompileInputs.cache
+C:\Users\Melek\Desktop\demo\DateTimeTypes\obj\Debug\DateTimeTypes.exe
+C:\Users\Melek\Desktop\demo\DateTimeTypes\obj\Debug\DateTimeTypes.pdb

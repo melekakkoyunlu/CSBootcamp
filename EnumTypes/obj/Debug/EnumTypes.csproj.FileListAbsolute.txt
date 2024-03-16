@@ -1,0 +1,7 @@
+C:\Users\Melek\Desktop\demo\EnumTypes\bin\Debug\EnumTypes.exe.config
+C:\Users\Melek\Desktop\demo\EnumTypes\bin\Debug\EnumTypes.exe
+C:\Users\Melek\Desktop\demo\EnumTypes\bin\Debug\EnumTypes.pdb
+C:\Users\Melek\Desktop\demo\EnumTypes\obj\Debug\EnumTypes.csproj.AssemblyReference.cache
+C:\Users\Melek\Desktop\demo\EnumTypes\obj\Debug\EnumTypes.csproj.CoreCompileInputs.cache
+C:\Users\Melek\Desktop\demo\EnumTypes\obj\Debug\EnumTypes.exe
+C:\Users\Melek\Desktop\demo\EnumTypes\obj\Debug\EnumTypes.pdb

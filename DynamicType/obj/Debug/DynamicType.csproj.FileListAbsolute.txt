@@ -1,0 +1,7 @@
+C:\Users\Melek\Desktop\demo\DynamicType\bin\Debug\DynamicType.exe.config
+C:\Users\Melek\Desktop\demo\DynamicType\bin\Debug\DynamicType.exe
+C:\Users\Melek\Desktop\demo\DynamicType\bin\Debug\DynamicType.pdb
+C:\Users\Melek\Desktop\demo\DynamicType\obj\Debug\DynamicType.csproj.AssemblyReference.cache
+C:\Users\Melek\Desktop\demo\DynamicType\obj\Debug\DynamicType.csproj.CoreCompileInputs.cache
+C:\Users\Melek\Desktop\demo\DynamicType\obj\Debug\DynamicType.exe
+C:\Users\Melek\Desktop\demo\DynamicType\obj\Debug\DynamicType.pdb

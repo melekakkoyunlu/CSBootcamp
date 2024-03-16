@@ -1,0 +1,7 @@
+C:\Users\Melek\Desktop\demo\DemoBootcamp\bin\Debug\DemoBootcamp.exe.config
+C:\Users\Melek\Desktop\demo\DemoBootcamp\bin\Debug\DemoBootcamp.exe
+C:\Users\Melek\Desktop\demo\DemoBootcamp\bin\Debug\DemoBootcamp.pdb
+C:\Users\Melek\Desktop\demo\DemoBootcamp\obj\Debug\DemoBootcamp.csproj.AssemblyReference.cache
+C:\Users\Melek\Desktop\demo\DemoBootcamp\obj\Debug\DemoBootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Melek\Desktop\demo\DemoBootcamp\obj\Debug\DemoBootcamp.exe
+C:\Users\Melek\Desktop\demo\DemoBootcamp\obj\Debug\DemoBootcamp.pdb

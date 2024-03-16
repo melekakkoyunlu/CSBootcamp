@@ -1,0 +1,7 @@
+C:\Users\Melek\Desktop\demo\StringBuilders\bin\Debug\StringBuilders.exe.config
+C:\Users\Melek\Desktop\demo\StringBuilders\bin\Debug\StringBuilders.exe
+C:\Users\Melek\Desktop\demo\StringBuilders\bin\Debug\StringBuilders.pdb
+C:\Users\Melek\Desktop\demo\StringBuilders\obj\Debug\StringBuilders.csproj.AssemblyReference.cache
+C:\Users\Melek\Desktop\demo\StringBuilders\obj\Debug\StringBuilders.csproj.CoreCompileInputs.cache
+C:\Users\Melek\Desktop\demo\StringBuilders\obj\Debug\StringBuilders.exe
+C:\Users\Melek\Desktop\demo\StringBuilders\obj\Debug\StringBuilders.pdb
