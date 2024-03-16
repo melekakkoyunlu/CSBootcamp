@@ -1,0 +1,7 @@
+C:\Users\Melek\Desktop\demo\ControlStatements\bin\Debug\ControlStatements.exe.config
+C:\Users\Melek\Desktop\demo\ControlStatements\bin\Debug\ControlStatements.exe
+C:\Users\Melek\Desktop\demo\ControlStatements\bin\Debug\ControlStatements.pdb
+C:\Users\Melek\Desktop\demo\ControlStatements\obj\Debug\ControlStatements.csproj.AssemblyReference.cache
+C:\Users\Melek\Desktop\demo\ControlStatements\obj\Debug\ControlStatements.csproj.CoreCompileInputs.cache
+C:\Users\Melek\Desktop\demo\ControlStatements\obj\Debug\ControlStatements.exe
+C:\Users\Melek\Desktop\demo\ControlStatements\obj\Debug\ControlStatements.pdb

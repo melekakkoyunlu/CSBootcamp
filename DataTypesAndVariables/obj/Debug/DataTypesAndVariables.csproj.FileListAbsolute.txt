@@ -1,0 +1,7 @@
+C:\Users\Melek\Desktop\demo\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe.config
+C:\Users\Melek\Desktop\demo\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe
+C:\Users\Melek\Desktop\demo\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.pdb
+C:\Users\Melek\Desktop\demo\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\Melek\Desktop\demo\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Melek\Desktop\demo\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.exe
+C:\Users\Melek\Desktop\demo\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.pdb
